@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "publishers.Ioc", "publisher
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "publishers.UnitTest", "publishers.UnitTest\publishers.UnitTest.csproj", "{8C948610-1D0F-486C-984B-66C0611F5F30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "piblishers.IntegrationTest", "piblishers.IntegrationTest\piblishers.IntegrationTest.csproj", "{364B76D3-663A-4CF5-91FE-CD35D3F6D000}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "publishers.IntegrationTest", "piblishers.IntegrationTest\publishers.IntegrationTest.csproj", "{364B76D3-663A-4CF5-91FE-CD35D3F6D000}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

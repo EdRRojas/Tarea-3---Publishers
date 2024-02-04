@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HDxFf8BT1+7wWc55NRQ/cwbx4FMV+ut9cDVcNk/lvsUNZm5g2cYy/9C3sz+gTnGiVcuiP0+lO/xfBBM1LEM5Vw==",
+  "dgSpecHash": "m4wGd+i4TOCIVYCOcVfEQ8YiYk5lVnBRW2/eTgnRhbTeojNiJNkvuSEx833XR93HvAwsAfBZvJirLwd6Dr3G2w==",
   "success": true,
-  "projectFilePath": "E:\\Visual Studio 2022\\Publishers\\piblishers.IntegrationTest\\piblishers.IntegrationTest.csproj",
+  "projectFilePath": "E:\\Visual Studio 2022\\Publishers\\piblishers.IntegrationTest\\publishers.IntegrationTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Para Estudiar.DESKTOP-GHCQPP3\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Para Estudiar.DESKTOP-GHCQPP3\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
