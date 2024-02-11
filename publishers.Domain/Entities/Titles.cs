@@ -1,4 +1,6 @@
-﻿namespace publishers.Domain.Entities
+﻿using System;
+
+namespace publishers.Domain.Entities
 {
     public class Titles
     {
