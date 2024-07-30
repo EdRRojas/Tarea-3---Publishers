@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Visual Studio 2022\\Publishers\\publishers.UnitTest\\publishers.UnitTest.csproj": {}
+    "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.UnitTest\\publishers.UnitTest.csproj": {}
   },
   "projects": {
-    "E:\\Visual Studio 2022\\Publishers\\publishers.UnitTest\\publishers.UnitTest.csproj": {
+    "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.UnitTest\\publishers.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual Studio 2022\\Publishers\\publishers.UnitTest\\publishers.UnitTest.csproj",
+        "projectUniqueName": "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.UnitTest\\publishers.UnitTest.csproj",
         "projectName": "publishers.UnitTest",
-        "projectPath": "E:\\Visual Studio 2022\\Publishers\\publishers.UnitTest\\publishers.UnitTest.csproj",
+        "projectPath": "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.UnitTest\\publishers.UnitTest.csproj",
         "packagesPath": "C:\\Users\\Para Estudiar.DESKTOP-GHCQPP3\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual Studio 2022\\Publishers\\publishers.UnitTest\\obj\\",
+        "outputPath": "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Para Estudiar.DESKTOP-GHCQPP3\\AppData\\Roaming\\NuGet\\NuGet.Config",

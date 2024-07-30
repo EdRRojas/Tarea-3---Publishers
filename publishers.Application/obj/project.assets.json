@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Visual Studio 2022\\Publishers\\publishers.Application\\publishers.Application.csproj",
+      "projectUniqueName": "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.Application\\publishers.Application.csproj",
       "projectName": "publishers.Application",
-      "projectPath": "E:\\Visual Studio 2022\\Publishers\\publishers.Application\\publishers.Application.csproj",
+      "projectPath": "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.Application\\publishers.Application.csproj",
       "packagesPath": "C:\\Users\\Para Estudiar.DESKTOP-GHCQPP3\\.nuget\\packages\\",
-      "outputPath": "E:\\Visual Studio 2022\\Publishers\\publishers.Application\\obj\\",
+      "outputPath": "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Para Estudiar.DESKTOP-GHCQPP3\\AppData\\Roaming\\NuGet\\NuGet.Config",

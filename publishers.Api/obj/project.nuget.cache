@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2ugRZgQEjsBY66cgheGfMUFzz7HKMDiMNXZ3fKxkWVNIQ82ZgSbmye1c/EsGQS8y9JVM49twih0uyd9TCXWX+A==",
+  "dgSpecHash": "A/N6Xbyfq6rq8Z1AphppvO1fQ46XJ82Oo1udM/UTH8RVUacu3VYnhU17itWIgarLmsdmM4U0NbcXjVxyW4UXwA==",
   "success": true,
-  "projectFilePath": "E:\\Visual Studio 2022\\Publishers\\publishers.Api\\publishers.Api.csproj",
+  "projectFilePath": "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.Api\\publishers.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Para Estudiar.DESKTOP-GHCQPP3\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Para Estudiar.DESKTOP-GHCQPP3\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

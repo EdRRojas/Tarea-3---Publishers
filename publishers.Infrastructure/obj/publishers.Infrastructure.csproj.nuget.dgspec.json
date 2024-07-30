@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Visual Studio 2022\\Publishers\\publishers.Infrastructure\\publishers.Infrastructure.csproj": {}
+    "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.Infrastructure\\publishers.Infrastructure.csproj": {}
   },
   "projects": {
-    "E:\\Visual Studio 2022\\Publishers\\publishers.Infrastructure\\publishers.Infrastructure.csproj": {
+    "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.Infrastructure\\publishers.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual Studio 2022\\Publishers\\publishers.Infrastructure\\publishers.Infrastructure.csproj",
+        "projectUniqueName": "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.Infrastructure\\publishers.Infrastructure.csproj",
         "projectName": "publishers.Infrastructure",
-        "projectPath": "E:\\Visual Studio 2022\\Publishers\\publishers.Infrastructure\\publishers.Infrastructure.csproj",
+        "projectPath": "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.Infrastructure\\publishers.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Para Estudiar.DESKTOP-GHCQPP3\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual Studio 2022\\Publishers\\publishers.Infrastructure\\obj\\",
+        "outputPath": "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Para Estudiar.DESKTOP-GHCQPP3\\AppData\\Roaming\\NuGet\\NuGet.Config",

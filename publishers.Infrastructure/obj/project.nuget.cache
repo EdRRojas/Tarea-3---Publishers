@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0YJEpIxo0EdaxC8G2cxsFtc7ofJEoGxjLzG67nQHby0GrjesYfmHY2wQPR9UMmhkGvFOkNfE4YcemC57xPQmYQ==",
+  "dgSpecHash": "y+ZFCUpCQkQq89O2zm183TOymkOvJPcdeUAdTqUstRp/xCRfgnH2ZU3nJLCcvzZyaoNA9ExYQs9me8N1Fz/aug==",
   "success": true,
-  "projectFilePath": "E:\\Visual Studio 2022\\Publishers\\publishers.Infrastructure\\publishers.Infrastructure.csproj",
+  "projectFilePath": "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.Infrastructure\\publishers.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Para Estudiar.DESKTOP-GHCQPP3\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
     "C:\\Users\\Para Estudiar.DESKTOP-GHCQPP3\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",

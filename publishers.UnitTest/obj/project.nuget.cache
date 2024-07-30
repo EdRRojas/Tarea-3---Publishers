@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nRqUnlrR6RtEXvHvOvckDgNcdCpMPLEneV/eG5il6/9BfRQtUN2v1JZudAJKE26Z8hdV/djgGKnSMfZ8xeiURg==",
+  "dgSpecHash": "eVNq2IG/jSG14R54p2hDw11yu9VPi+IyI2XtKJvCZBnr00nBJFft66j8YAMcFDQ3eV6bixfL9IFCSCE6fVxqtQ==",
   "success": true,
-  "projectFilePath": "E:\\Visual Studio 2022\\Publishers\\publishers.UnitTest\\publishers.UnitTest.csproj",
+  "projectFilePath": "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.UnitTest\\publishers.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Para Estudiar.DESKTOP-GHCQPP3\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Para Estudiar.DESKTOP-GHCQPP3\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

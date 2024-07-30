@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Visual Studio 2022\\Publishers\\publishers.Api\\publishers.Api.csproj": {}
+    "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.Api\\publishers.Api.csproj": {}
   },
   "projects": {
-    "E:\\Visual Studio 2022\\Publishers\\publishers.Api\\publishers.Api.csproj": {
+    "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.Api\\publishers.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual Studio 2022\\Publishers\\publishers.Api\\publishers.Api.csproj",
+        "projectUniqueName": "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.Api\\publishers.Api.csproj",
         "projectName": "publishers.Api",
-        "projectPath": "E:\\Visual Studio 2022\\Publishers\\publishers.Api\\publishers.Api.csproj",
+        "projectPath": "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.Api\\publishers.Api.csproj",
         "packagesPath": "C:\\Users\\Para Estudiar.DESKTOP-GHCQPP3\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual Studio 2022\\Publishers\\publishers.Api\\obj\\",
+        "outputPath": "E:\\Visual Studio 2022\\Programacion III Tarea 3 publishers\\publishers.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Para Estudiar.DESKTOP-GHCQPP3\\AppData\\Roaming\\NuGet\\NuGet.Config",
